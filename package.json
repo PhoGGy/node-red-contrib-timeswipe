@@ -16,7 +16,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "timeswipe": "0.0.4a"
+    "PhoGGy/timeswipe": "0.0.4a"
   },
   "node-red": {
     "nodes": {
