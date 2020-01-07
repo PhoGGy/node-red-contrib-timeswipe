@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-timeswipe",
-  "version": "0.1.0",
+  "version": "0.1.0a",
   "description": "timeswipe sensors wrapper for Node-RED",
   "main": "timeswipe-sensors.js",
   "author": "Mykola Basov",
@@ -12,11 +12,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/panda-official/node-red-contrib-timeswipe.git"
+    "url": "https://github.com/PhoGGy/node-red-contrib-timeswipe.git"
   },
   "scripts": {},
   "dependencies": {
-    "timeswipe": "0.0.4"
+    "timeswipe": "0.0.4a"
   },
   "node-red": {
     "nodes": {
